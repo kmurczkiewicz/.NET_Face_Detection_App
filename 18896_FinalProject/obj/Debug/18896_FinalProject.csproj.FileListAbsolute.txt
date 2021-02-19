@@ -1,0 +1,156 @@
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csprojAssemblyReference.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.Properties.Resources.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.GenerateResource.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.CoreCompileInputs.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\concrt140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\cvextern.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\msvcp140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\vcruntime140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\concrt140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\cvextern.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\msvcp140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\vcruntime140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.exe.config
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.exe
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.pdb
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.DirectShow.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.UI.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.World.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\ZedGraph.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.DirectShow.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.UI.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.World.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\ZedGraph.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\de\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\es\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\fr\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\hu\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\it\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\ja\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\pt\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\ru\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\sk\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\sv\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\tr\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.CopyComplete
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.exe
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.pdb
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormMain.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormDecode.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormFaceDetect.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_Eyes.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_Face.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_CatFace.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x64\concrt140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x64\cvextern.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x64\msvcp140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x64\vcruntime140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x86\concrt140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x86\cvextern.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x86\msvcp140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\x86\vcruntime140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_CatFace.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_Eyes.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_Face.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.exe.config
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.exe
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.pdb
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.DirectShow.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.UI.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.World.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\ZedGraph.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.DirectShow.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.UI.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.World.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\ZedGraph.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\de\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\es\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\fr\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\hu\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\it\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\ja\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\pt\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\ru\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\sk\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\sv\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\tr\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csprojAssemblyReference.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormDecode.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormFaceDetect.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormMain.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.Properties.Resources.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.GenerateResource.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.CoreCompileInputs.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.CopyComplete
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.exe
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\FinalProject — BACKUP PRZED CSV\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.pdb
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\concrt140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\cvextern.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\msvcp140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\opencv_videoio_ffmpeg411_64.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x64\vcruntime140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\concrt140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\cvextern.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\msvcp140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\opencv_videoio_ffmpeg411.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\x86\vcruntime140.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_CatFace.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_Eyes.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\trainingDataSet_Face.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.exe.config
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.exe
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\18896_FinalProject.pdb
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.DirectShow.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.UI.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.World.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\ZedGraph.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\AForge.Video.DirectShow.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.UI.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Emgu.CV.World.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\ZedGraph.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\de\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\es\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\fr\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\hu\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\it\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\ja\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\pt\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\ru\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\sk\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\sv\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\tr\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csprojAssemblyReference.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormDecode.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormFaceDetect.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormMain.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.Properties.Resources.resources
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.GenerateResource.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.CoreCompileInputs.cache
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.csproj.CopyComplete
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.exe
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\18896_FinalProject.pdb
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Newtonsoft.Json.dll
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\bin\Debug\Newtonsoft.Json.xml
+D:\zzzzSTUDIA\5 Semestr\Budowa aplikacji na platformie .NET\A_FINAL_PROJECT\FinalProject\18896_FinalProject\18896_FinalProject\obj\Debug\_18896_FinalProject.FormGeneratedImage.resources
